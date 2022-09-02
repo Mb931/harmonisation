@@ -1,0 +1,15 @@
+{
+    "name": "aviel/harmonisation",
+    "autoload": {
+        "psr-4": {
+            "harmonisation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shidac",
+            "email": "avie2204@gmail.com"
+        }
+    ],
+    "require": {}
+}
